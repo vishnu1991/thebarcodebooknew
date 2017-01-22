@@ -53,8 +53,6 @@
     * USPS POSTNET
     * USPS PLANET
     * USPS FIM symbols
-
-
 * [Pharmaceutical Symbols](pharmaceutical-symbols.md)
 * [Less-used Symbols](less-used-symbols.md)
 * [GS1 Composite Symbols](gs1-composite-symbols.md)
