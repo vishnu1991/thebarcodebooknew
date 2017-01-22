@@ -28,8 +28,8 @@
 * [One-dimensional Symbols](one-dimensional-symbols.md)
 * [Postal Symbols](postal-symbols.md)
 * [Pharmaceutical Symbols](pharmaceutical-symbols.md)
-* Less-used Symbols
-* GS1 Composite Symbols
-* Raw Symbols
-* Partial Symbols
+* [Less-used Symbols](less-used-symbols.md)
+* [GS1 Composite Symbols](gs1-composite-symbols.md)
+* [Raw Symbols](raw-symbols.md)
+* [Partial Symbols](partial-symbols.md)
 
