@@ -28,16 +28,13 @@ Variants:
 
 Data**: 93771473968012**
 
-![](/assets/ean13-1.png)  
+![](/assets/ean13-1.png)
 
+##### 
 
 ##### 2.A symbol that includes a five-digit add-on:
 
 Data: **9771473968012 54499**
 
 ![](/assets/ean13-2.png)
-
-
-
-
 
