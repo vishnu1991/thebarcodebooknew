@@ -12,7 +12,7 @@ International Standard Serial Number.
 
 #### **Example**
 
-**1.Identical symbols, input provided with and without an ISSN check digit and having sequence number `00`**_**:**_
+**1.Identical symbols, input provided with and without an ISSN check digit and having sequence number **`00`_**:**_
 
 ![](/assets/issn-1.png)
 
@@ -20,7 +20,7 @@ International Standard Serial Number.
 Data:    0317-8471 00
 ```
 
-**2.An ISSN with sequence number `03`**_** **_**and a two-digit add-on representing issue number `17`**_**:**_
+**2.An ISSN with sequence number **`03`_** **_**and a two-digit add-on representing issue number **`17`_**:**_
 
 ![](/assets/issn-2.png)
 
