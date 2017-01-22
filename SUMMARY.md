@@ -42,15 +42,15 @@
     * [Code 93 Extended](code-93-extended.md)
     * [Interleaved 2 of 5](interleaved-2-of-5.md)
 * [Postal Symbols](postal-symbols.md)
-    * Australia Post
-    * Deutsche Post Identcode
-    * Deutsche Post Leitcode
-    * Japan Post
-    * MaxiCode
-    * Royal Mail
-    * Royal TNT Post
-    * USPS Intelligent Mail
-    * USPS POSTNET
+    * [Australia Post](australia-post.md)
+    * [Deutsche Post Identcode](deutsche-post-identcode.md)
+    * [Deutsche Post Leitcode](deutsche-post-leitcode.md)
+    * [Japan Post](japan-post.md)
+    * [MaxiCode](maxicode.md)
+    * [Royal Mail](royal-mail.md)
+    * [Royal TNT Post](royal-tnt-post.md)
+    * [USPS Intelligent Mail](usps-intelligent-mail.md)
+    * [USPS POSTNET](usps-postnet.md)
     * [USPS PLANET](usps-planet.md)
     * [USPS FIM symbols](usps-fim-symbols.md)
 * [Pharmaceutical Symbols](pharmaceutical-symbols.md)

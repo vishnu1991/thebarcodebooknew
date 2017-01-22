@@ -1,4 +1,4 @@
-# **USPS FIM symbols**
+# **Australia Post**
 
 # ✍🏼
 
