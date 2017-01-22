@@ -35,6 +35,12 @@
     * [Micro QR Code](micro-qr-code.md)
     * [Han Xin Code](han-xin-code.md)
 * [One-dimensional Symbols](one-dimensional-symbols.md)
+    * Code 128
+    * Code 39
+    * Code 39 Extended
+    * Code 93
+    * Code 93 Extended
+    * Interleaved 2 of 5
 * [Postal Symbols](postal-symbols.md)
 * [Pharmaceutical Symbols](pharmaceutical-symbols.md)
 * [Less-used Symbols](less-used-symbols.md)
