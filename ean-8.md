@@ -1,12 +1,14 @@
 # EAN-8
 
+![](/assets/ean8-1.png)      ![](/assets/ean8-2 (1).png)
+
 **EAN-8** is derived from the EAN-13 barcode symbology and is designed for small packaging. It usually carries a GTIN-8.
 
 #### **Also Known as**
 
 UCC-8, JAN-8.
 
-**Variants:**
+#### **Variants:**
 
 * EAN-8+2 is an extension of EAN-8 that includes a two-digit add-on.
 * EAN-8+5 is an extension of EAN-8 that includes a five-digit add-on.

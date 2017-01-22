@@ -6,7 +6,7 @@
 
 UPC, UCC-12, Universal Product Code.
 
-**Variants:**
+#### **Variants:**
 
 * UPC-E0 is a UPC-E with a number system of `0`.
 * UPC-E1 is a UPC-E with a number system of `1`.

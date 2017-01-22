@@ -10,7 +10,7 @@ It was designed by the International Article Numbering Association in 1976 for i
 
 EAN, UCC-13, European Article Number, International Article Number, JAN, JAN-13.
 
-**Variants:**
+#### **Variants:**
 
 * EAN-13+2 is an extension of EAN-13 that includes a two-digit add-on.
 * EAN-13+5 is an extension of EAN-13 that includes a five-digit add-on.
@@ -37,8 +37,6 @@ Data: 93771473968012
 ##### 
 
 ##### 2.A symbol that includes a five-digit add-on:
-
-
 
 ![](/assets/ean13-2.png)
 

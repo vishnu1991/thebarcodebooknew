@@ -1,12 +1,14 @@
 # UPC-A
 
+![](/assets/upca-1.png)        ![](/assets/upca-2.png)
+
 The **UPC-A **barcode symbology is used for identification of retail goods at point of sale inside of the US. It usually carries a GTIN-12.
 
 #### **Also Known as**
 
 UPC, UCC-12, Universal Product Code.
 
-**Variants:**
+#### **Variants:**
 
 * UPC-A+2 is an extension of UPC-A that includes a two-digit add-on.
 * UPC-A+5 is an extension of UPC-A that includes a five-digit add-on.
