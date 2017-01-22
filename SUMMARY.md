@@ -35,12 +35,12 @@
     * [Micro QR Code](micro-qr-code.md)
     * [Han Xin Code](han-xin-code.md)
 * [One-dimensional Symbols](one-dimensional-symbols.md)
-    * Code 128
-    * Code 39
-    * Code 39 Extended
-    * Code 93
-    * Code 93 Extended
-    * Interleaved 2 of 5
+    * [Code 128](code-128.md)
+    * [Code 39](code-39.md)
+    * [Code 39 Extended](code-39-extended.md)
+    * [Code 93](code-93.md)
+    * [Code 93 Extended](code-93-extended.md)
+    * [Interleaved 2 of 5](interleaved-2-of-5.md)
 * [Postal Symbols](postal-symbols.md)
     * Australia Post
     * Deutsche Post Identcode
@@ -51,12 +51,11 @@
     * Royal TNT Post
     * USPS Intelligent Mail
     * USPS POSTNET
-    * USPS PLANET
-    * USPS FIM symbols
+    * [USPS PLANET](usps-planet.md)
+    * [USPS FIM symbols](usps-fim-symbols.md)
 * [Pharmaceutical Symbols](pharmaceutical-symbols.md)
 * [Less-used Symbols](less-used-symbols.md)
 * [GS1 Composite Symbols](gs1-composite-symbols.md)
 * [Raw Symbols](raw-symbols.md)
 * [Partial Symbols](partial-symbols.md)
-
 
