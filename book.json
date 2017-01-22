@@ -1,9 +1,6 @@
 {
     "pluginsConfig": {
-        "theme-default": {
-            "styles": "",
-            "showLevel": true
-        },
+       
         "sharing": {
             "facebook": true,
             "twitter": true,
