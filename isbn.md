@@ -8,7 +8,7 @@ An **ISBN **barcode is a variant of EAN-13 that is used to identify books.
 
 ISBN-13, International Standard Book Number, Bookland EAN-13.
 
-#### Variants:
+#### Variants
 
 * ISBN-10 is a legacy format that was depreciated for public use after 1st January 2007.
 
