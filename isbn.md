@@ -1,5 +1,7 @@
 # ISBN
 
+
+
 An **ISBN **barcode is a variant of EAN-13 that is used to identify books.
 
 #### **Also Known as**
@@ -48,6 +50,5 @@ _Note that ISBN-10 is legacy format not for use at P.O.S._
 Data:    1-86074-271-8
 ```
 
-  
 
 
