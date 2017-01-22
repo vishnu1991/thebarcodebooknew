@@ -18,3 +18,30 @@ International Standard Music Number, ISMN-13.
 
 **1.Identical symbols, input provided with an ISMN check digit:**
 
+![](/assets/ismn-1.png)
+
+```
+Data:    979-0-2600-0043-8
+```
+
+**2.The following ISMN-10 input will be automatically upgraded to a valid ISMN-13 symbol:**
+
+![](/assets/ismn-2.png)
+
+```
+Data:    M-345-24680-5
+```
+
+**3.ISMN-10:**
+
+_Note that ISMN-10 is a legacy format not for use at P.O.S._
+
+![](/assets/ismn-3.png)
+
+```
+Data:    M-345-24680-5
+```
+
+  
+
+
