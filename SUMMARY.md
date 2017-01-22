@@ -86,5 +86,9 @@
     * Telepen Numeric
 * [GS1 Composite Symbols](gs1-composite-symbols.md)
 * [Raw Symbols](raw-symbols.md)
+    * DAFT
+    * Flattermarken
+    * Raw
 * [Partial Symbols](partial-symbols.md)
+
 
