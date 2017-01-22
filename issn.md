@@ -1,8 +1,12 @@
 # ISSN
 
-![](/assets/issn-1.png)       ![](/assets/issn-2.png)
+_**International Standard Serial Number**_
 
 An **ISSN** barcode is an EAN-13 with prefix `977`used to identify periodicals.
+
+---
+
+![](/assets/issn-1.png)       ![](/assets/issn-2.png)
 
 #### **Also known as**
 

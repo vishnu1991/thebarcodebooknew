@@ -1,8 +1,12 @@
 # UPC-E
 
-![](/assets/upce-1.png)     ![](/assets/upce-2.png)
+_**Universal Product Code**_
 
 **UPC-E **is a compacted form of the UPC-A barcode symbology that usually carries a GTIN-12 with a number system of 0 or 1 that has been zero compressed.
+
+---
+
+![](/assets/upce-1.png)     ![](/assets/upce-2.png)
 
 #### **Also Known as**
 

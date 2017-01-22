@@ -1,8 +1,12 @@
 # UPC-A
 
-![](/assets/upca-1.png)        ![](/assets/upca-2.png)
+_**Universal Product Code**_
 
 The **UPC-A **barcode symbology is used for identification of retail goods at point of sale inside of the US. It usually carries a GTIN-12.
+
+---
+
+![](/assets/upca-1.png)        ![](/assets/upca-2.png)
 
 #### **Also Known as**
 

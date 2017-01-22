@@ -1,8 +1,12 @@
 # ISMN
 
-![](/assets/ismn-1.png)            ![](/assets/ismn-2.png)          ![](/assets/ismn-3.png)
+_**International Standard Music Number**_
 
 An ISMN barcode is a variant of EAN-13 with a prefix `979` that is used to identify printed music.
+
+---
+
+![](/assets/ismn-1.png)            ![](/assets/ismn-2.png)          ![](/assets/ismn-3.png)
 
 #### **Also Known as**
 

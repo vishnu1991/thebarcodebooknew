@@ -1,8 +1,12 @@
 # EAN-13
 
-![](/assets/ean13-1.png)           ![](/assets/ean13-2.png)
+_**European Article Number**_
 
 **EAN-13 **is an extension of the UPC-A barcode symbology that usually carries a GTIN-13.
+
+---
+
+![](/assets/ean13-1.png)           ![](/assets/ean13-2.png)
 
 It was designed by the International Article Numbering Association in 1976 for identification of retail goods at point of sale outside of the US.
 

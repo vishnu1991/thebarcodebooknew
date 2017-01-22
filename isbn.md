@@ -1,8 +1,12 @@
 # ISBN
 
-![](/assets/isbn-1.png)         ![](/assets/isbn-2.png)         ![](/assets/isbn-3.png)            ![](/assets/isbn-4.png)
+_**International Standard Book Number**_
 
 An **ISBN **barcode is a variant of EAN-13 that is used to identify books.
+
+---
+
+![](/assets/isbn-1.png)         ![](/assets/isbn-2.png)         ![](/assets/isbn-3.png)            ![](/assets/isbn-4.png)
 
 #### **Also Known as**
 
