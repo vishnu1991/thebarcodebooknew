@@ -1,7 +1,4 @@
 {
-    "plugins": [
-        "downloadpdf"
-    ],
     "pluginsConfig": {
         "theme-default": {
             "styles": "",
