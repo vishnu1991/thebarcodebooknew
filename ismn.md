@@ -42,6 +42,5 @@ _Note that ISMN-10 is a legacy format not for use at P.O.S._
 Data:    M-345-24680-5
 ```
 
-  
 
 
