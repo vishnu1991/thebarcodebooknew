@@ -85,10 +85,26 @@
     * Telepen
     * Telepen Numeric
 * [GS1 Composite Symbols](gs1-composite-symbols.md)
+    * EAN-13 Composite
+    * EAN-8 Composite
+    * UPC-A Composite
+    * UPC-E Composite
+    * GS1 DataBar Omnidirectional Composite
+    * GS1 DataBar Stacked Omnidirectional Composite
+    * GS1 DataBar Expanded Composite
+    * GS1 DataBar Expanded Stacked Composite
+    * GS1 DataBar Truncated Composite
+    * GS1 DataBar Stacked Composite
+    * GS1 DataBar Limited Composite
+    * GS1-128 Composite
 * [Raw Symbols](raw-symbols.md)
     * DAFT
     * Flattermarken
     * Raw
 * [Partial Symbols](partial-symbols.md)
-
+    * EAN-2
+    * EAN-5
+    * CC-A
+    * CC-B
+    * CC-C
 
