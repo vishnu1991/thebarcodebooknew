@@ -66,8 +66,25 @@
     * HIBC Data Matrix
     * HIBC Codablock F
 * [Less-used Symbols](less-used-symbols.md)
+    * BC412
+    * Channel Code
+    * Codabar
+    * Codablock F
+    * Code 11
+    * Code 16K
+    * Code 25
+    * IATA 2 of 5
+    * Matrix 2 of 5
+    * Datalogic 2 of 5
+    * COOP 2 of 5
+    * Code 49
+    * Code One
+    * MSI Plessey
+    * Plessey
+    * PosiCode
+    * Telepen
+    * Telepen Numeric
 * [GS1 Composite Symbols](gs1-composite-symbols.md)
 * [Raw Symbols](raw-symbols.md)
 * [Partial Symbols](partial-symbols.md)
-
 
