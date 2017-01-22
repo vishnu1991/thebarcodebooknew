@@ -32,5 +32,4 @@
 * EAN-14
 * ITF-14
 * SSCC-18
-* [TOC](toc.md)
 
