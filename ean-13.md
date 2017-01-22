@@ -26,7 +26,7 @@ Variants:
 
 ##### 1.Identical symbols, input provided with a check digit:
 
-Data**: 93771473968012**
+**Data: **93771473968012
 
 ![](/assets/ean13-1.png)
 
@@ -34,7 +34,7 @@ Data**: 93771473968012**
 
 ##### 2.A symbol that includes a five-digit add-on:
 
-Data: **9771473968012 54499**
+**Data**: 9771473968012 54499
 
 ![](/assets/ean13-2.png)
 
