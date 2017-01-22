@@ -30,7 +30,6 @@
 * GS1 QR Code
 * GS1-128
 * EAN-14
-* ITF-14
-* SSCC-18
-* [TOC](toc.md)
+* [ITF-14](itf-14.md)
+* [SSCC-18](sscc-18.md)
 
