@@ -24,7 +24,6 @@
     * EAN-14
     * [ITF-14](itf-14.md)
     * [SSCC-18](sscc-18.md)
-
 * Two-dimensional Symbols
 * One-dimensional Symbols
 * Postal Symbols
