@@ -18,6 +18,14 @@
     * [GS1 DataBar Stacked](gs1-databar-stacked.md)
     * [GS1 DataBar Limited](gs1-databar-limited.md)
 * [Supply Chain](supply-chain.md)
+    * GS1 DataMatrix
+    * GS1 QR Code
+    * GS1-128
+    * EAN-14
+    * [ITF-14](itf-14.md)
+    * [SSCC-18](sscc-18.md)
+
+
 * Two-dimensional Symbols
 * One-dimensional Symbols
 * Postal Symbols
@@ -26,10 +34,5 @@
 * GS1 Composite Symbols
 * Raw Symbols
 * Partial Symbols
-* GS1 DataMatrix
-* GS1 QR Code
-* GS1-128
-* EAN-14
-* [ITF-14](itf-14.md)
-* [SSCC-18](sscc-18.md)
+
 
