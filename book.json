@@ -19,7 +19,7 @@
             "multilingual": false
         },
         "downloadpdf": {
-            "base": "https://www.gitbook.com/download/pdf/vishnu1991/the-barcode-book",
+            "base": "https://vishnu1991.gitbooks.io/the-barcode-book/content/",
             "label": "Download PDF",
             "multilingual": false
         }
