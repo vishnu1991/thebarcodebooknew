@@ -11,7 +11,7 @@
             "weibo": false,
             "instapaper": false,
             "vk": false,
-            "all": "facebook,google,twitter,weibo,instapaper"
+            "all": ""
         },
         "download-pdf": {
             "base": "https://vishnu1991.gitbooks.io/the-barcode-book/content/",
