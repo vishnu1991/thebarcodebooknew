@@ -1,10 +1,8 @@
-# GS1 DataMatrix
+# Han Xin Code
 
 # ✍🏼
 
 **Currently Writing this page.**
 
 **Check it out soon.**
-
-
 

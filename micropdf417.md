@@ -1,10 +1,8 @@
-# GS1 DataMatrix
+# MicroPDF417
 
 # ✍🏼
 
 **Currently Writing this page.**
 
 **Check it out soon.**
-
-
 
