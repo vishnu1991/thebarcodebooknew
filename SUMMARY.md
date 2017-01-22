@@ -25,6 +25,15 @@
     * [ITF-14](itf-14.md)
     * [SSCC-18](sscc-18.md)
 * [Two-dimensional Symbols](two-dimensional-symbols.md)
+    * Aztec Code
+    * Aztec Runes
+    * Data Matrix
+    * MicroPDF417
+    * PDF417
+    * Compact PDF417
+    * QR Code
+    * Micro QR Code
+    * Han Xin Code
 * [One-dimensional Symbols](one-dimensional-symbols.md)
 * [Postal Symbols](postal-symbols.md)
 * [Pharmaceutical Symbols](pharmaceutical-symbols.md)
@@ -32,4 +41,5 @@
 * [GS1 Composite Symbols](gs1-composite-symbols.md)
 * [Raw Symbols](raw-symbols.md)
 * [Partial Symbols](partial-symbols.md)
+
 
