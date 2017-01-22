@@ -24,10 +24,10 @@
     * EAN-14
     * [ITF-14](itf-14.md)
     * [SSCC-18](sscc-18.md)
-* Two-dimensional Symbols
-* One-dimensional Symbols
-* Postal Symbols
-* Pharmaceutical Symbols
+* [Two-dimensional Symbols](two-dimensional-symbols.md)
+* [One-dimensional Symbols](one-dimensional-symbols.md)
+* [Postal Symbols](postal-symbols.md)
+* [Pharmaceutical Symbols](pharmaceutical-symbols.md)
 * Less-used Symbols
 * GS1 Composite Symbols
 * Raw Symbols
