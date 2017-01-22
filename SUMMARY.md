@@ -42,9 +42,23 @@
     * Code 93 Extended
     * Interleaved 2 of 5
 * [Postal Symbols](postal-symbols.md)
+    * Australia Post
+    * Deutsche Post Identcode
+    * Deutsche Post Leitcode
+    * Japan Post
+    * MaxiCode
+    * Royal Mail
+    * Royal TNT Post
+    * USPS Intelligent Mail
+    * USPS POSTNET
+    * USPS PLANET
+    * USPS FIM symbols
+
+
 * [Pharmaceutical Symbols](pharmaceutical-symbols.md)
 * [Less-used Symbols](less-used-symbols.md)
 * [GS1 Composite Symbols](gs1-composite-symbols.md)
 * [Raw Symbols](raw-symbols.md)
 * [Partial Symbols](partial-symbols.md)
+
 
