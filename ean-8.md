@@ -28,7 +28,7 @@ Data: 01335583
 
 **2.Truncated with white space guards:**
 
-![](/assets/ean8-2 (1).png)
+![](/assets/ean8-2 (1).png\)
 
 ```
 Data: 01335583
