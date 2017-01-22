@@ -1,6 +1,6 @@
 # EAN-8
 
-![](/assets/ean8-1.png)      ![](/assets/ean8-2 (1).png)
+![](/assets/ean8-1.png)      ![](/assets/ean8-2.png)    
 
 **EAN-8** is derived from the EAN-13 barcode symbology and is designed for small packaging. It usually carries a GTIN-8.
 
