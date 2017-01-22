@@ -54,8 +54,20 @@
     * [USPS PLANET](usps-planet.md)
     * [USPS FIM symbols](usps-fim-symbols.md)
 * [Pharmaceutical Symbols](pharmaceutical-symbols.md)
+    * Italian Pharmacode
+    * Pharmacode
+    * Two-track Pharmacode
+    * PZN
+    * HIBC Code 39
+    * HIBC Code 128
+    * HIBC PDF417
+    * HIBC MicroPDF417
+    * HIBC QR Code
+    * HIBC Data Matrix
+    * HIBC Codablock F
 * [Less-used Symbols](less-used-symbols.md)
 * [GS1 Composite Symbols](gs1-composite-symbols.md)
 * [Raw Symbols](raw-symbols.md)
 * [Partial Symbols](partial-symbols.md)
+
 
