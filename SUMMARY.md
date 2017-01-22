@@ -16,7 +16,7 @@
     * [GS1 DataBar Expanded Stacked](gs1-databar-expanded-stacked.md)
     * [GS1 DataBar Truncated](gs1-databar-truncated.md)
     * [GS1 DataBar Stacked](gs1-databar-stacked.md)
-    * GS1 DataBar Limited
+    * [GS1 DataBar Limited](gs1-databar-limited.md)
 * [Supply Chain](supply-chain.md)
 * Two-dimensional Symbols
 * One-dimensional Symbols
