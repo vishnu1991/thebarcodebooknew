@@ -1,3 +1,5 @@
-# My Awesome Book
+# All about Barcodes
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Explore information about Barcodes.This book covers majority of all the barcodes like EAN,QRCODE,Postal Code,Pharma codes,etc.  
+
+

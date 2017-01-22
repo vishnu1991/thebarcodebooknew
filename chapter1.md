@@ -1,3 +1,14 @@
-# First Chapter
+# Point of Sale
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Barcodes used in Point of sale.
+
+* EAN-13
+* EAN-8
+* UPC-A
+* UPC-E
+* ISBN
+* ISMN
+* ISSN
+
+
+

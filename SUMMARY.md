@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Point of Sale](chapter1.md)
+* [EAN-13](ean-13.md)
+
