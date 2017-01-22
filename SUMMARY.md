@@ -41,8 +41,6 @@
     * Code 93
     * Code 93 Extended
     * Interleaved 2 of 5
-    
-    
 * [Postal Symbols](postal-symbols.md)
     * Australia Post
     * Deutsche Post Identcode
